@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+check_*.py
+test_*.js
+chk_*.js
+.DS_Store
